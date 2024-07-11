@@ -1,2 +1,2 @@
-# anti-TNF_prediction_ibd
-Source codes for finding biomarkers to predict the response to anti-TNF therapy in ulcerative colitis patients using machine learning
+# Prediction of anti-TNF therapy failure in ulcerative colitis patients by ensemble machine learning: A prospective study
+doi: https://doi.org/10.1016/j.heliyon.2023.e21154
